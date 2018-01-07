@@ -1,4 +1,4 @@
-# food-recognition
+# Discovering attributes for food description and recognition
 
 Automated food recognition has great value in terms of health benefits, as it provides a more efficient and accurate method of recording an individual's diet. It is the high variability within the same food groups and yet, the subtle distinctions between different food groups that makes food recognition a difficult task.
 
